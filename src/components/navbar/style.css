@@ -1,0 +1,37 @@
+/* Main Navbar */
+
+.nb-wrapper {
+    @apply h-[56px] bg-gray-bg border-b border-gray-second
+}
+
+
+/* Search Section */
+
+.sc-wrapper {
+    @apply h-[56px] w-[320px] grid justify-items-start
+}
+
+.sc-container {
+    @apply px-4 flex items-center justify-center
+}
+
+.img-logo {
+    @apply h-[40px] w-[40px]
+}
+
+.sc-blank{
+    @apply h-[56px] w-[12px]
+}
+
+.sc-forminput {
+    @apply max-w-md mx-auto
+}
+
+.sc-input-container {
+    @apply absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none
+}
+
+.sc-input {
+    @apply h-[40px] w-[240px] block p-4 ps-10 text-sm text-gray-main rounded-full bg-gray-second
+}
+
