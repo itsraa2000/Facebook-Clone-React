@@ -11,7 +11,6 @@ function Menu() {
               <li className="mn-list">
                 <span className="mn-span">
                   <div className="mn-frame">
-                    <div className="mn-underline"></div>
                     <a
                       aria-current="page"
                       aria-label="หน้าแรก"
@@ -35,10 +34,9 @@ function Menu() {
                   </div>
                 </span>
               </li>
-              <li className="mn-list">
+              <li className="mn-list ml-2">
                 <span className="mn-span">
                   <div className="mn-frame">
-                    <div className="mn-underline"></div>
                     <a
                       aria-label="วิดีโอ"
                       className="mn-icon"
@@ -62,10 +60,9 @@ function Menu() {
                   </div>
                 </span>
               </li>
-              <li className="mn-list">
+              <li className="mn-list ml-2">
                 <span className="mn-span">
                   <div className="mn-frame">
-                    <div className="mn-underline"></div>
                     <a
                       aria-label="Marketplace"
                       className="mn-icon"
@@ -88,10 +85,9 @@ function Menu() {
                   </div>
                 </span>
               </li>
-              <li className="mn-list">
+              <li className="mn-list ml-2 ">
                 <span className="mn-span">
                   <div className="mn-frame">
-                    <div className="mn-underline"></div>
                     <a
                       aria-label="กลุ่ม"
                       className="mn-icon"
@@ -115,10 +111,9 @@ function Menu() {
                   </div>
                 </span>
               </li>
-              <li className="mn-list">
+              <li className="mn-list ml-2">
                 <span className="mn-span">
                   <div className="mn-frame">
-                    <div className="mn-underline"></div>
                     <a
                       aria-label="การเล่นเกม"
                       className="mn-icon"

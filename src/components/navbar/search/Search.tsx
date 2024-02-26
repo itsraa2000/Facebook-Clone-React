@@ -6,10 +6,7 @@ function Search() {
     <div className="sc-wrapper">
       <div className="sc-container">
         <a href="/" className="sc-banner">
-          <img
-            className="img-logo"
-            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB4PSIwIiB5PSIwIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgY2xhc3M9IiI+PGc+PHBhdGggZmlsbD0iIzE4NzdmMiIgZD0iTTUxMiAyNTZjMCAxMjcuNzgtOTMuNjIgMjMzLjY5LTIxNiAyNTIuODlWMzMwaDU5LjY1TDM2NyAyNTZoLTcxdi00OC4wMmMwLTIwLjI1IDkuOTItMzkuOTggNDEuNzItMzkuOThIMzcwdi02M3MtMjkuMy01LTU3LjMxLTVjLTU4LjQ3IDAtOTYuNjkgMzUuNDQtOTYuNjkgOTkuNlYyNTZoLTY1djc0aDY1djE3OC44OUM5My42MiA0ODkuNjkgMCAzODMuNzggMCAyNTYgMCAxMTQuNjIgMTE0LjYyIDAgMjU2IDBzMjU2IDExNC42MiAyNTYgMjU2eiIgb3BhY2l0eT0iMSIgZGF0YS1vcmlnaW5hbD0iIzE4NzdmMiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0zNTUuNjUgMzMwIDM2NyAyNTZoLTcxdi00OC4wMjFjMC0yMC4yNDUgOS45MTgtMzkuOTc5IDQxLjcxOS0zOS45NzlIMzcwdi02M3MtMjkuMjk2LTUtNTcuMzA1LTVDMjU0LjIxOSAxMDAgMjE2IDEzNS40NCAyMTYgMTk5LjZWMjU2aC02NXY3NGg2NXYxNzguODg5YzEzLjAzNCAyLjA0NSAyNi4zOTIgMy4xMTEgNDAgMy4xMTFzMjYuOTY2LTEuMDY2IDQwLTMuMTExVjMzMHoiIG9wYWNpdHk9IjEiIGRhdGEtb3JpZ2luYWw9IiNmZmZmZmYiPjwvcGF0aD48L2c+PC9zdmc+"
-          />
+        <svg viewBox="0 0 36 36" className=" block " fill="currentColor" height="40" width="40"><path className=" text-[#0866ff] " d="M20.181 35.87C29.094 34.791 36 27.202 36 18c0-9.941-8.059-18-18-18S0 8.059 0 18c0 8.442 5.811 15.526 13.652 17.471L14 34h5.5l.681 1.87Z"></path><path className="text-white" d="M13.651 35.471v-11.97H9.936V18h3.715v-2.37c0-6.127 2.772-8.964 8.784-8.964 1.138 0 3.103.223 3.91.446v4.983c-.425-.043-1.167-.065-2.081-.065-2.952 0-4.09 1.116-4.09 4.025V18h5.883l-1.008 5.5h-4.867v12.37a18.183 18.183 0 0 1-6.53-.399Z"></path></svg>
         </a>
         <div className="sc-blank"></div>
         <form className="sc-forminput">

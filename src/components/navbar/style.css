@@ -1,4 +1,8 @@
 /* Main Navbar */
+.navbar {
+    @apply fixed top-0 w-full z-50 bg-gray-bg border-b border-gray-second
+}
+
 
 .nb-wrapper {
     @apply h-[56px] bg-gray-bg border-b border-gray-second
@@ -58,11 +62,11 @@
 }
 
 .mn-list{
-    @apply min-w-[50px] max-w-[129.6px] grow 
+    @apply min-w-[50px] max-w-[129.6px] grow
 }
 
 .mn-span{
-    @apply min-h-[56px] flex min-w-[50px]
+    @apply h-[56px] flex w-[129.6px] items-center justify-center
 }
 
 .mn-frame{
@@ -81,21 +85,65 @@
     @apply relative text-gray-main
 }
 
-.svg .mn-icons {
-    @apply text-blue-hover block transition-colors
+.mn-icons {
+    @apply block transition-colors flex justify-center items-center
 }
 
 
 /* Profile Section */
 
 .pf-wrapper {
-    @apply fixed pr-4 pl-1 
+    @apply fixed pr-4 pl-1 top-0 right-0
 }
 
 .pf-container{
-    @apply flex items-center relative z-0 h-[56px] flex-row-reverse
+    @apply flex  items-center relative z-0 h-[56px] flex-row-reverse
 }
 
 .pf-style{
-    @apply flex max-h-[56px] min-w-[184px] w-[184px] max-w-[184px] basis-1/2 justify-center grow self-streth items-stretch flex-row-reverse shrink-0
+    @apply flex max-h-[56px] min-w-[184px] w-[184px] max-w-[184px] basis-1/2 justify-center grow self-stretch items-center flex-row-reverse shrink-0
+}
+
+.pf-picturewrap {
+    @apply flex relative
+}
+
+.pf-frame{
+    @apply bg-none flex-auto box-border shrink-0 cursor-pointer inline-block relative z-0
+}
+
+.pf-pt{
+    @apply align-bottom inline-block z-0
+}
+
+.pf-picture{
+    @apply align-bottom h-10 w-10 rounded-full
+}
+
+.pf-addition{
+    @apply absolute inline-flex items-center justify-center w-4 h-4 text-white-icon bg-gray-second border-2 border-gray-bg rounded-full -bottom-1 -end-1
+}
+
+.pf-downicon {
+    @apply block text-[#e4e6eb] 
+}
+
+.pf-addmenu {
+    @apply h-[56px] flex justify-center items-center
+}
+
+.pf-spanadd {
+    @apply flex h-[56px] w-[40px] justify-center grow self-stretch items-center shrink-0 flex-row-reverse mr-2
+}
+
+.pf-add {
+    @apply box-border relative z-0
+}
+
+.pf-icons {
+    @apply h-[40px] w-[40px] bg-gray-second rounded-full flex items-center justify-center touch-manipulation box-border cursor-pointer relative
+}
+
+.pf-iconx {
+    @apply text-white-icon block
 }

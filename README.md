@@ -5,9 +5,18 @@ Todo list Plan For Clone Facebook
 2.Define Core Style  ( Color , Font ) 
 3.Create UI Components
   3.1 Navbar
-      - Logo , Search  // 17.37 // เหลือ ฟังก์ชั่นตอน Active เปลี่ยน Logo เป็นลูกศรกลับ
-      - Menu
+      - Logo , Search //
+      - Menu //
       - Setting (Dropdown) , Chat (Dropdown) , Notification (Dropdown) , Profile (DropDown)
+
+      // 24/2/67 10:41 // 
+      
+      เหลือ  ฟังก์ชั่น  
+      - คลิก input search logo เปลี่ยนเป็ฯลูกศรกลับ
+      - Menu เปลี่ยนสี Icon เมื่อ คลิก และ อยู่หน้านั้นๆ
+      - Setting (Dropdown) , Chat (Dropdown) , Notification (Dropdown) , Profile (DropDown)
+
+      
   3.2 Home
       - Profile Section
       - Quick Way Section
