@@ -8,3 +8,7 @@ body {
   font-family: "Poppins";
   background-color: #1c1e21;
 }
+
+.height-main {
+  height: calc(100vh - 56px);
+}

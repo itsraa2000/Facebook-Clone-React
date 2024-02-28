@@ -18,10 +18,6 @@
     @apply flex flex-col max-w-full box-border shrink-0 relative z-0 mt-3 
 }
 
-.st-container{
-    @apply w-full
-}
-
 .st-core{
     @apply max-w-full
 }
@@ -35,11 +31,11 @@
 }
 
 .st-contain{
-    @apply px-2 my-[-8px] box-border z-0 relative
+    @apply my-[-8px] box-border z-0 relative
 }
 
 .st-container{
-    @apply flex flex-col box-border px-2 scroll-p-11 overscroll-contain overflow-hidden relative z-0 snap-x snap-mandatory
+    @apply flex flex-col w-full box-border scroll-p-11 overscroll-contain overflow-hidden relative z-0 snap-x snap-mandatory
 }
 
 .st-style{
@@ -207,7 +203,7 @@
 }
 
 .f-addition{
-    @apply flex h-[20px] w-[20px] p-2 
+    @apply flex h-[20px] w-[20px] p-2 justify-center items-center
 }
 
 .f-icon{
@@ -260,4 +256,142 @@
 
 .f-like{
     @apply flex justify-center items-center flex-row relative grow z-0 h-11 -my-[6px] flex-nowrap -mx-1 basis-0 box-border px-3 shrink min-w-0  whitespace-nowrap
+}
+
+
+/* ProfileMenu */
+
+.ls-wrapper{
+    @apply flex flex-col overflow-hidden box-border z-0 max-w-[360px] min-h-0 min-w-[280px] basis-[360px] sticky
+}
+
+.ls-contain{
+    @apply flex flex-col mt-4 relative grow
+}
+
+.ls-container{
+    @apply flex flex-col relative grow min-h-full
+}
+
+.ls-profile{
+    @apply flex items-center justify-between flex-row relative z-0 box-border min-h-11 px-2
+}
+
+.ls-profile:hover{
+    @apply bg-gray-second/50 rounded-lg
+}
+
+.ls-avatar{
+    @apply flex flex-col relative self-center my-2 mr-3
+}
+
+.ls-picture{
+    @apply align-bottom	inline-block relative z-0 h-9 w-9 rounded-full
+}
+
+.ls-username{
+    @apply flex flex-col justify-between items-stretch relative z-0 grow box-border py-3 shrink
+}
+
+.ls-name{
+    @apply max-w-full text-white-icon text-left break-words block text-base font-medium
+}
+
+.ls-icon{
+    @apply h-9 w-9 rounded-full  box-border flex items-center justify-center relative bg-gray-second
+}
+
+.ls-hr{
+    @apply border-b mt-2 mx-4 border-[#3e4042]
+}
+
+.qm-headder{
+    @apply flex flex-col max-w-full pt-3 box-border relative z-0 pb-1 grow
+}
+
+.qm-title{
+    @apply pl-4 my-[5px] block max-w-full text-gray-main break-words font-semibold text-base
+}
+
+.ft-wrapper{
+    @apply p-4 shrink-0 mt-auto
+}
+
+.ft-container{
+    @apply text-gray-main max-w-full break-words block font-normal text-sm leading-5
+}
+
+
+/* Right Section */
+
+.rs-wrapper{
+    @apply flex flex-col overflow-hidden box-border z-0 max-w-[360px] min-h-0 min-w-[280px] basis-[360px] sticky
+}
+
+.rs-contain{
+    @apply flex flex-col mt-4 relative grow
+}
+
+.rs-birthday{
+    @apply relative
+}
+
+.rs-title{
+    @apply flex max-w-full flex-col box-border relative z-0  pb-1 px-4 shrink-0
+}
+
+.rs-titleBirthday{
+    @apply max-w-full text-gray-main text-left break-words block font-semibold text-lg
+}
+
+.rs-birthdayFriend{
+    @apply p-2
+}
+
+.rs-bdcontainer {
+    @apply flex items-center justify-between flex-row relative z-0 text-center box-border min-h-11 px-2
+}
+
+.rs-bdicon{
+    @apply flex flex-col relative self-start my-2 mr-3 h-9 w-9
+}
+
+.rs-bdfriend{
+    @apply flex justify-between items-center items-stretch relative grow flex-col box-border px-3 shrink
+}
+
+.rs-bdname{
+    @apply text-left break-words block text-base font-normal max-w-full text-white-icon my-[5px]
+}
+
+.rs-hr{
+    @apply h-[1px] inset-x-4 bg-[#3e4042] absolute -bottom-[1px]
+}
+
+.rs-headder{
+    @apply max-w-full pt-5 flex flex-col box-border relative z-0 pb-1 grow px-4
+}
+
+.rs-contact{
+    @apply mx-[5px] text-gray-main break-words block font-semibold text-base 
+}
+
+.rs-incontact{
+    @apply flex items-center justify-between flex-row relative z-0 flex-nowrap
+}
+
+.rs-addition{
+    @apply flex justify-center flex-col relative ml-1 text-gray-main
+}
+
+.rs-search{
+    @apply flex flex-row relative z-0 box-border items-center shrink-0 justify-between
+}
+
+.rs-icons{
+    @apply mx-3
+}
+
+.rs-listcontact{
+    @apply 
 }

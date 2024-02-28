@@ -7,7 +7,7 @@ function StoryContentCreate() {
                 <a aria-label="สร้างสตอรี่" className="st-content" role="link" tabIndex={0} >
                     <div className="st-create">
                         <div className="st-cover">
-                            <img alt="" className="h-full w-full object-cover" src="https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-1/391710424_3622507571409556_1095526012264651521_n.jpg?stp=dst-jpg_p160x160&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=5740b7&amp;_nc_eui2=AeG_yI-TBGAG8RvR7AtJV1l1vyVtUgWtuge_JW1SBa26B1pQ4ewhA5pWCrxJY-bmCHNqbPQS_M6zey4qPAfCCahf&amp;_nc_ohc=UUWYkZZdtEIAX-v-QtV&amp;_nc_ht=scontent.fbkk29-7.fna&amp;oh=00_AfBNsSIhgiB_0U0QuKyVTRST3FLIQo8yXolh4MkJzZ9jIQ&amp;oe=65DE7BF7" />
+                            <img alt="" className="h-full w-full object-cover" src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-1/391710424_3622507571409556_1095526012264651521_n.jpg?stp=dst-jpg_p320x320&_nc_cat=106&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeG_yI-TBGAG8RvR7AtJV1l1vyVtUgWtuge_JW1SBa26B1pQ4ewhA5pWCrxJY-bmCHNqbPQS_M6zey4qPAfCCahf&_nc_ohc=W9qr0xfDogoAX8byb9Q&_nc_ht=scontent.fbkk14-1.fna&oh=00_AfAtweDYstbwn58HJnj-kbXSpqozmOWdl4xrgTs74SGzqA&oe=65E46AB7" />
                         </div>
                         <div className="st-undercover">
                             <div className="st-button">

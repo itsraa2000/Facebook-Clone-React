@@ -1,0 +1,24 @@
+import React from "react";
+
+function Birthday() {
+  return (
+    <div className="rs-birthday">
+      <div className="rs-title">
+        <span className="rs-titleBirthday">วันเกิด</span>
+      </div>
+      <div className="rs-birthdayFriend">
+        <div className="rs-bdcontainer">
+            <div className="rs-bdicon">
+                <img className=" h-full w-full object-fit inline-block" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB4PSIwIiB5PSIwIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZD0ibTM5Mi4zODcgMzIuNzI4IDE4Ljg1OC0xNy4wMjljNi41MzYtNS45MDEgMTYuNTctNS41NjUgMjIuNjk3Ljc2IDIzLjIxOCAyMy45NDkgMzEuNjA4IDU4LjYwOCAyMS45MzIgOTAuNTNsLTMwLjU5OSA0Ny45NUgxNTEuNTEzbC05NS4zODktNDcuOTVjLTkuNjc2LTMxLjkyMi0xLjI4NS02Ni41ODEgMjEuOTMyLTkwLjUzIDYuMTI2LTYuMzI1IDE2LjE2MS02LjY2IDIyLjY5Ny0uNzZsMTguODU4IDE3LjAyOSAxNDAuNTcgMTAxLjMxMyIgc3R5bGU9IiIgZmlsbD0iI2RkNGI0YiIgZGF0YS1vcmlnaW5hbD0iI2RkNGI0YiI+PC9wYXRoPjxwYXRoIGQ9Ik0yNC4yNDIgMTcwLjE5aDQ2My41MDZ2MzMwLjMzNEgyNC4yNDJ6IiBzdHlsZT0iIiBmaWxsPSIjMzJhOGVhIiBkYXRhLW9yaWdpbmFsPSIjMzJhOGVhIj48L3BhdGg+PHBhdGggZD0iTTAgMTA2Ljk4NWg1MTJ2ODUuMzM3SDB6IiBzdHlsZT0iIiBmaWxsPSIjMzJhOGVhIiBkYXRhLW9yaWdpbmFsPSIjMzJhOGVhIj48L3BhdGg+PHBhdGggZD0iTTI1Ni4wMDMgMTA2Ljk4NUgxMTAuMjRhOTEuMDI3IDkxLjAyNyAwIDAgMS0zLjUtMTcuNjU5IDg4Ljc1NiA4OC43NTYgMCAwIDEtLjQ0OS04Ljk1NSA5MS44MzIgOTEuODMyIDAgMCAxIDI1Ljg4Mi02My45MTZjNi4xMzQtNi4zMzIgMTYuMTY1LTYuNjY2IDIyLjY5NS0uNzYzbDgxLjU3NSA3My42MzQgMTkuNTYgMTcuNjU5ek00MDUuNzA2IDgwLjM2MWMwIDIuOTg4LS4xNDYgNS45NzctLjQ0OSA4Ljk2NWE5MS4xNzcgOTEuMTc3IDAgMCAxLTMuNSAxNy42NTlIMjU2LjAwM2wxOS41Ni0xNy42NTkgODEuNTY1LTczLjYzNGM2LjUzMS01LjkwNCAxNi41NzItNS41NjkgMjIuNjk1Ljc2M2E5MS44NzEgOTEuODcxIDAgMCAxIDI1Ljg4MyA2My45MDZ6IiBzdHlsZT0iIiBmaWxsPSIjZWY1OTU5IiBkYXRhLW9yaWdpbmFsPSIjZWY1OTU5Ij48L3BhdGg+PHBhdGggZD0ibTIzNi40NDMgODkuMzI2IDE5LjU2MSAxNy42NTlIMTEwLjI0YTkxLjAyNyA5MS4wMjcgMCAwIDEtMy41LTE3LjY1OWgxMjkuNzAzeiIgc3R5bGU9IiIgZmlsbD0iI2RkNGI0YiIgZGF0YS1vcmlnaW5hbD0iI2RkNGI0YiI+PC9wYXRoPjxwYXRoIGQ9Ik00MDUuMjU2IDg5LjMyNmE5MS4xNzcgOTEuMTc3IDAgMCAxLTMuNSAxNy42NTlIMjU2LjAwM2wxOS41Ni0xNy42NTloMTI5LjY5M3oiIHN0eWxlPSIiIGZpbGw9IiNkZDRiNGIiIGRhdGEtb3JpZ2luYWw9IiNkZDRiNGIiPjwvcGF0aD48cGF0aCBkPSJNMjEzLjY4MiAxMDYuOTg1aDg0LjYzM3YzOTMuNTI5aC04NC42MzN6IiBzdHlsZT0iIiBmaWxsPSIjZWY1OTU5IiBkYXRhLW9yaWdpbmFsPSIjZWY1OTU5Ij48L3BhdGg+PHBhdGggZD0iTTI0LjI0MiAxOTIuMzIxaDQ2My41MDZ2MzAuODU1SDI0LjI0MnoiIHN0eWxlPSIiIGZpbGw9IiMyMDk0YzYiIGRhdGEtb3JpZ2luYWw9IiMyMDk0YzYiPjwvcGF0aD48cGF0aCBkPSJNMjEzLjY4MiAxOTIuMzIxaDg0LjYzM3YzMC44NTVoLTg0LjYzM3oiIHN0eWxlPSIiIGZpbGw9IiNkZDRiNGIiIGRhdGEtb3JpZ2luYWw9IiNkZDRiNGIiPjwvcGF0aD48L2c+PC9zdmc+" />
+            </div>
+            <div className="rs-bdfriend">
+                <span className="rs-bdname">วันนี้เป็นวันเกิดของ Lungtu Ocha และ Lovely pom</span>
+            </div>
+        </div>
+      </div>
+      <div className="rs-hr"></div>
+    </div>
+  );
+}
+
+export default Birthday;

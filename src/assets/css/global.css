@@ -17,5 +17,5 @@
 }
 
 .hp-style{
-    @apply flex shrink justify-between flex-row relative grow items-start	
+    @apply flex shrink justify-between flex-row relative grow items-start flex-nowrap basis-0 min-w-0
 }
