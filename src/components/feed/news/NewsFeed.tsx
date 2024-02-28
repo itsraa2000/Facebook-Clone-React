@@ -37,7 +37,7 @@ function NewsFeed() {
                         <div className=" relative ">
                             <div className="f-photo">
                                 <div className="h-full">
-                                    <img alt="พิกัด : หนังสือฮีลใจ" className="object-cover absolute inset-0 " src="https://scontent.fbkk22-8.fna.fbcdn.net/v/t45.1600-4/428280650_120207425996440081_503616201725104766_n.jpg?stp=cp0_dst-jpg_q75_s1080x2048_spS444&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=528f85&amp;_nc_eui2=AeFJJjR77ckHKfiVEAn6udU0UvTX1-KkR2dS9NfX4qRHZ4SGS01iWsTm22VP8VH2DW4ybzLkfDkVxYWM-_N6GyEn&amp;_nc_ohc=yRmROWQ70Y8AX9iYnEa&amp;_nc_ht=scontent.fbkk22-8.fna&amp;oh=00_AfAqrkysJwtn8JSbH45cZbdpeA_57t237OrMwfoLsSLfJw&amp;oe=65E0B05E" />
+                                    <img alt="พิกัด : หนังสือฮีลใจ" className="object-cover absolute inset-0 " src="https://scontent.fbkk22-8.fna.fbcdn.net/v/t39.30808-6/429673372_7178522535558204_2590865812509835499_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeGlT18lUtcUCbgLQ1EFM9vQ3ZvQC5387Zzdm9ALnfztnNy2J5y1afAZcwPjq2qvPmLmrp56Wa3TtzaC_6ytbcJ4&_nc_ohc=CZQqt4B8ebMAX8mzGO8&_nc_ht=scontent.fbkk22-8.fna&oh=00_AfD8y4aIy-HLetGUZcCGTeTDwqs-Z_WvTKZF3SoqgpobIA&oe=65E3E01C" />
                                 </div>
                             </div>
                         </div>

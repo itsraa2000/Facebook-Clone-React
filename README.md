@@ -9,7 +9,7 @@ Todo list Plan For Clone Facebook
       - Menu //
       - Setting (Dropdown) , Chat (Dropdown) , Notification (Dropdown) , Profile (DropDown)
 
-      // 24/2/67 10:41 // 
+      // 28/2/2567 22.13  //  
       
       เหลือ  ฟังก์ชั่น  
       - คลิก input search logo เปลี่ยนเป็ฯลูกศรกลับ
@@ -39,6 +39,5 @@ Todo list Plan For Clone Facebook
 
 ## Run
 
-1. npm install
-2. npm i vite@latest
-3. npm run dev
+1. npm i vite@latest
+2. npm run dev

@@ -8,14 +8,14 @@ function StoryElse() {
                     <div className="st-card">
                         <div className=" absolute inset-0">
                             <div className="st-coverObject">
-                                <img alt="" className="w-full h-full object-cover" src="https://scontent.fbkk29-7.fna.fbcdn.net/v/t15.5256-10/426149733_3211313775838186_6511458753726754023_n.jpg?stp=dst-jpg_s280x280&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=1a7029&amp;_nc_eui2=AeH_YWFhctPjPf5IxTbz8Ef54vszav-PTmPi-zNq_49OY367j4bSahBzw7qr79UQW6btBt54ZK-vHnUJznaU51Sj&amp;_nc_ohc=ckGUNMVQ-HkAX-DWCVi&amp;_nc_ht=scontent.fbkk29-7.fna&amp;oh=00_AfD-AcI-cgZIH48ifr_sSaiFEZSfFjRKcH26MkSwnMdfPQ&amp;oe=65DFA4E3" />
+                                <img alt="" className="w-full h-full object-cover" src="https://scontent.fbkk22-2.fna.fbcdn.net/v/t15.5256-10/430289260_317170288010484_4933506969647680974_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=1a7029&_nc_eui2=AeHi-f_r8SLGShmwEsx4Nj7EwvZlLahPSBvC9mUtqE9IG2tsCkDNnCY_rSvc6OEIwv34rTLzKhMYmgfEYOrsNusV&_nc_ohc=-OsXOpw3bVIAX881icq&_nc_ht=scontent.fbkk22-2.fna&oh=00_AfCqbnfKrxjnz7lpBldgf153sDhpdfafG0ik0T8y8VTaxA&oe=65E3CC43" />
                             </div>
                             <div className="st-other">
                                 <div className="st-block">
                                     <div className="st-upside">
                                         <div className="st-cornerLeft">
                                             <div className="st-profile">
-                                                <img height="40" width="40" alt="Sandy Rachany Summart" className="object-fill" src="https://scontent.fbkk29-1.fna.fbcdn.net/v/t39.30808-1/423223299_3625075654474922_5756010710292490857_n.jpg?stp=cp0_dst-jpg_p40x40&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=5740b7&amp;_nc_eui2=AeGki5x_hmr6N1DmcUNBPSbeh-MutByDKZWH4y60HIMplTd97zpXv8S7UMC0D0oVpBJcRr-3DsEDI-5_GcXFQAtE&amp;_nc_ohc=f7ueY9YuwqMAX_Ibkx8&amp;_nc_oc=AQkIwLweFlNLHdu55VHjd3SFhTKWsTk5zzqR9y9HT1vGNsT_U1kiClxhUD_W8DItyNQ&amp;_nc_ht=scontent.fbkk29-1.fna&amp;oh=00_AfCNByvwt0IlNQb0E1ENOkKB8vQ9ElJlsjz3KZPpQcjI8Q&amp;oe=65DF3263" />
+                                                <img height="40" width="40" alt="Sandy Rachany Summart" className="object-fill" src="https://scontent.fbkk22-1.fna.fbcdn.net/v/t15.5256-10/429561024_1631267324309250_1794308332900927244_n.jpg?stp=dst-jpg_s280x280&_nc_cat=100&ccb=1-7&_nc_sid=1a7029&_nc_eui2=AeHhkruX8gqQr-Idz2RgfX6J1COfP7t2hobUI58_u3aGhqcRRmNP8T1yvogBAfLScWN3mAfqLiywnIHh7wGun49Q&_nc_ohc=74tVP3J7nGoAX95QSUL&_nc_ht=scontent.fbkk22-1.fna&oh=00_AfBp09uAftAEPepJZ5YQiUCi9Hrv1IfVzEBHzplgwHrFIA&oe=65E3B309" />
                                             </div>
                                         </div>
                                     </div>

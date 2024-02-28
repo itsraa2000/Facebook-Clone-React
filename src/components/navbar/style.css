@@ -69,6 +69,11 @@
     @apply h-[56px] flex w-[129.6px] items-center justify-center
 }
 
+.mn-span:hover{
+    @apply bg-gray-second/50 rounded-lg
+}
+
+
 .mn-frame{
     @apply flex items-center relative h-[56px]
 }

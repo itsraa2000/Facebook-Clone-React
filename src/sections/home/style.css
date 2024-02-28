@@ -393,5 +393,17 @@
 }
 
 .rs-listcontact{
-    @apply 
+    @apply py-2
+}
+
+.rs-status{
+    @apply absolute bottom-[0.5px] right-[0.5px] 
+}
+
+.rs-online{
+    @apply flex relative overflow-hidden
+}
+
+.rs-greenCircle{
+    @apply w-2 h-2 rounded-full inline-flex items-center box-border justify-center bg-[#31a24c]
 }
